@@ -34,3 +34,5 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyVersion("1.0.0.1")] // Replaced by appveyor  
 [assembly: AssemblyFileVersion("1.0.0-1")] // Replaced by appveyor  
 [assembly: AssemblyInformationalVersion("1.0 RC1")] // Replaced by appveyor  
+
+[assembly: AssemblyKeyFile("splitioKey.snk")]
